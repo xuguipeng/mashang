@@ -1,0 +1,4 @@
+*** Keywords ***
+abc
+    log    合适
+    log    招进来
